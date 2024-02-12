@@ -58,7 +58,7 @@ function _intro() {
 	echo
 	echo "   ${title}              Heads Up!              ${normal} "
 	echo "   ${message_title}  QuickBox works with the following  ${normal} "
-	echo "   ${message_title}  Ubuntu 18.04 / Debian 9 ${normal} "
+	echo "   ${message_title}  Ubuntu 18.04 / Debian 11 ${normal} "
 	echo
 	echo
 	echo "${green}Checking distribution ...${normal}"
